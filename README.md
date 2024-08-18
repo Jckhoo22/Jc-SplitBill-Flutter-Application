@@ -14,3 +14,5 @@ Formula = (Total Bill) / (Amount of People)
 
 c) Record Owe Record
 This function store records for people who owe you money 
+
+Feel free to Download The Flutter File and Try it out ~
