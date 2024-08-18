@@ -6,6 +6,7 @@ calculator app on their own iPhone / Android
 
 
 The core features include 
+
 a) Split Bill Calculation depending on tax rate and amount of people
 Formula = (Amount Per Person) * ((Amount Per Person * Tax Rate) / 100)
 
