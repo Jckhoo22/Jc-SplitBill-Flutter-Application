@@ -2,7 +2,7 @@
 
 This is a Flutter Project that I have came up with which is to build a Split Bill Calculator
 This is my first project that I try and commit to GitHub to share to people who might use this
-calculator app on their own iPhone / Android 
+calculator app on their own iPhone / Android. The database I used is HIVE (LOCAL STORAGE)
 
 
 The core features include 
